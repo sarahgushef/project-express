@@ -1,0 +1,13 @@
+{
+  "name": "project-express",
+  "version": "1.0.0",
+  "description": "express exercise",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
